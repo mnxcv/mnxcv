@@ -4,7 +4,7 @@
 
 - Undergraduate Student in Hanyang University (Mar. 2022~)
   - Department of Computer Science
-  - GPA : 4.5/4.5
+  - GPA : 4.46/4.5
   
 ### Interests
   - Algorithms
