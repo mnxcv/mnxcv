@@ -9,7 +9,7 @@
 ### Interests
   - Algorithms
   - Artificial Intelligence
-    - Diffsion Models
+    - Diffusion Models
 
 ## Online Judges
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=mnx)](https://solved.ac/profile/mnx)  
